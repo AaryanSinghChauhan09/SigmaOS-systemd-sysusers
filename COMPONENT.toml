@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-sysusers"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-sysusers component"
+description = "systemd sysusers"
 upstream = []
 
 [contract]
